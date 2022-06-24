@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap");
+/* #displayButton, #findActorButton */
+.buttonPlacement
+{
+ 
+    width: auto;
+    height: auto;
+    
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    font-family: "Nunito", sans-serif;
+ 
+ 
+}
+.inputText{
+    width:  100px;
+    height: 250px;
+}
+
+.actorContainer{
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Nunito", sans-serif;
+}
+
+.countryContainer{
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Nunito", sans-serif;
+}
+.customerContainer{
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Nunito", sans-serif;
+}
+.filmActorContainer{
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Nunito", sans-serif;
+}
+.filmContainer{
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Nunito", sans-serif;
+}
+.storeContainer{
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Nunito", sans-serif;
+}
+.olList{
+    
+    text-align: center;
+    flex-direction: column;
+    font-family: "Nunito", sans-serif;
+}
